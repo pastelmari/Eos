@@ -1,7 +1,7 @@
 # Ahum-2
 This planet pack is made by smushanoob and mangu.
 
-Here is some complex lore for people to digest and understand ahum 2's story
+Here is some complex backstory lore for ahum 1 and 2
 
 The story begins about one million years in our future. The human race has expanded using ftl tech to have taken over almost half the Milky Way. However, they are tired and an eccentric quadrillionaire whose name shall not be mentioned has an idea.
 A mega resort; the largest structure ever built, around a middle aged quasi star found on the other end of a wormhole in an alternate reality with an extremely young universe.
@@ -15,4 +15,19 @@ Luckily, by working closely with fermi the kerbals succeed! But alas, a quasi st
 But alas, Romulus would not be killed so easily. Two opposing sides lay dormant in Ahum 1, the young binary system being a hotspot for rogue pieces of Romulus and mutated shards of fermi. If someone was stupid enough to wake either, the massive resultant war on the scale of multiple galaxies would be nearly impossible to survive.
 
 Now for some pretty screenshots!
-https://cdn.discordapp.com/attachments/1021120184083284068/1099458677322301471/image.png
+
+![image](https://user-images.githubusercontent.com/78890525/233813580-ebca9f23-b411-4e21-b24d-8cf2ac61e31f.png)
+![image (3)](https://user-images.githubusercontent.com/78890525/233813581-80a86c15-8e7a-4e11-b41d-288017e3bd25.png)
+![image (4)](https://user-images.githubusercontent.com/78890525/233813584-b536ca3f-09eb-42fb-a377-58f1b65a0197.png)
+![image (1)](https://user-images.githubusercontent.com/78890525/233813587-d15335df-8ee8-4e44-b404-f8c71848f9ff.png)
+![image (5)](https://user-images.githubusercontent.com/78890525/233813588-13e30e2c-0a7e-4970-927d-89470d8a8436.png)
+![image (6)](https://user-images.githubusercontent.com/78890525/233813591-23529ef3-2b02-4235-baac-4d0ea443e283.png)
+![image (7)](https://user-images.githubusercontent.com/78890525/233813593-328a446d-8d55-43b0-bea4-c36ba3c7312e.png)
+![image (8)](https://user-images.githubusercontent.com/78890525/233813595-eb8d1414-3b44-4195-ae06-e8b27c6ba4c5.png)
+![image (9)](https://user-images.githubusercontent.com/78890525/233813596-3a9ba1f8-b7c2-42f5-9f2f-1b0105dfbe2a.png)
+
+
+I hope you all enjoy Ahum 2, and may Romulus have mercy on you!
+
+
+![image (2)](https://user-images.githubusercontent.com/78890525/233813619-542d5fdd-b1a6-468e-aee2-d26d9caffbe5.png)
