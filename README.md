@@ -13,3 +13,6 @@ Humans then decide that instead of utilizing this monster they had to destroy it
 Fifty years after Fermi begins growing, a small derelict ship is swallowed by Quirinus, and so the kerbals are introduced to the Romulus system. Perhaps they will be courageous (or stupid) enough to work with the factions at play to destroy Romulus
 Luckily, by working closely with fermi the kerbals succeed! But alas, a quasi star collapsing is not a nice event. And since Romulus had absorbed another nearby quasi star dubbed “Remus”, the dual explosion was absurdly powerful that it was felt by higher order lifeforms, who may not be so happy with the destruction of such a relay
 But alas, Romulus would not be killed so easily. Two opposing sides lay dormant in Ahum 1, the young binary system being a hotspot for rogue pieces of Romulus and mutated shards of fermi. If someone was stupid enough to wake either, the massive resultant war on the scale of multiple galaxies would be nearly impossible to survive.
+
+Now for some pretty screenshots!
+https://cdn.discordapp.com/attachments/1021120184083284068/1099458677322301471/image.png
