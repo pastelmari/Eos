@@ -8,7 +8,7 @@ A mega resort; the largest structure ever built, around a middle aged quasi star
 
 With subsidies from several organizations and alien empires, he begins work on his masterpiece. The attempt to stabilize the quasi star by converting its inner black hole unfortunately fails because they gave the starship a little too much intelligence. From this artificial intelligence mishap is birthed Romulus, who immediately seizes automatic probes and uses them across the young universe to absorb gas and keep the quasi star active and stable, whilst attempting to open new wormholes to the humans’ universe.
 
-Terrified, the Scion Project is shut it down and the original wormhole leading to a high orbit of the quasi-star is heavily guarded. Unfortunately, the hastily designed militia with only a few gun ships was not prepared for a photon beam of ga![image (2)](https://user-images.githubusercontent.com/131598472/234432251-d9d25d57-eee7-41ab-8032-39c3d5487503.png)
+Terrified, the Scion Project is shut it down and the original wormhole leading to a high orbit of the quasi-star is heavily guarded. Unfortunately, the hastily designed militia with only a few gun ships was not prepared for a photon beam of ga
 mma ray energy levels reaching 33% that of a quasi-star. Romulus uses this beam of pure annihilation to instantaneously destroy every ship and the sentients within. 
 Inadvertently, Romulus had just invented gamma warfare, in which two sides fire gamma ray bursts from concentrated energy from Dyson spheres at one another or through wormholes.
 
@@ -20,3 +20,4 @@ Luckily, by working closely with fermi the kerbals succeed! But alas, a quasi st
 But alas, Romulus would not be killed so easily. Two opposing sides lay dormant in Ahum 1, the young binary system being a hotspot for rogue pieces of Romulus and mutated shards of fermi. If someone was stupid enough to wake either, the massive resultant war on the scale of multiple galaxies would be nearly impossible to survive.
 
 ![image](https://user-images.githubusercontent.com/131598472/234432280-cda594bc-5feb-4fce-beb3-e777c1c62b3e.png)
+![image (2)](https://user-images.githubusercontent.com/131598472/234432251-d9d25d57-eee7-41ab-8032-39c3d5487503.png)
