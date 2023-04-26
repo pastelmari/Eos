@@ -1,4 +1,8 @@
 # Ahum-2
+HEADS UP!!!
+YOU NEED THIS MOD
+https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/#comment-4117435
+
 This planet pack is made by smushanoob and mangu.
 
 Here is some complex backstory lore for ahum 1 and 2
