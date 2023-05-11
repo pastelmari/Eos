@@ -5,6 +5,25 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernic
 
 This planet pack is made by smushanoob and mangu.
 
+The license for this planet pack is CC-BY-NC-ND.
+v0.4.0 CHANGELOG
+Fixed Alter Kerbin bug where you can't launch a craft.
+Added description for 4 planets
+Scatterer tweaks
+Bugfixes
+Added Luvae
+Organized files
+Parallax tweaks (Alterkerbin's flora is now WIP again. Expect it to be fucked up somewhat)
+Deleted useless file from flags folder
+Renamed Muriat to Uposhenko
+Changed Uposhenko's texture and coloring slightly
+Changed some planet's parallax textures to more appropriate ones
+Slightly moved Uposhenko's orbit
+Modified Uposhenko's rings
+Added 4 moons to Uposhenko
+Added Flag (v0.3.5, but not included in changelog)
+Full Changelog: v0.1...v0.4.0
+
 Here is some complex backstory lore for ahum 1 and 2
 
 The story begins about one million years in our future. The human race has expanded using ftl tech to have taken over almost half the Milky Way. However, they are tired and an eccentric quadrillionaire whose name shall not be mentioned has an idea.
