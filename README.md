@@ -16,15 +16,16 @@ The license for this planet pack is CC-BY-NC-ND.
 ###     ### ###    ###  ########  ###       ###       ##########       ###        ########## ###     ### ###    #### ##########     ###           ###       ###     ###  ########  ###    ### 
 
 
-V0.4.1 CHANGELOG
+V0.4.3 CHANGELOG
 ---------------------------------
-Major bugfixes
-Fixed bug where you would go straight out of the barycenter SOI after leaving Alter Kerbin's/other destinations Sphere of Influence.
-Fixed scatterer loading default Kerbin config instead of custom one
-Tweaked volumetric cloud support (much nicer for alter kerbin now.)
-Fixed KSC bug
-Tweaked AlterKerbin terrain to be more contrasted (EXPERIMENTAL SO SOME PLACES MAY LOOK ODD)
-Pretty much playable now (as far as I know.)
+For real this time, I fixed the parallax plants. I tested it this time, didn't have the time last time and shot in the dark and missed.
+Scatterer/EVE tweaks
+Misc parallax tweaks
+Optimized Alter Kerbin's biome map by reducing size from 16k to 8k
+Changed KSC ground color to match the beach where its located
+Removed placeholder Alter Kerbin atmosphere, replaced with a proper one
+Fixed scaledversion fades for Alter Kerbin
+Gave the KSC its own biome for Parallax reasons
 
 Here is some complex backstory lore for ahum 1 and 2
 
