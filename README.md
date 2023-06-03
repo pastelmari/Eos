@@ -16,16 +16,10 @@ The license for this planet pack is CC-BY-NC-ND.
 ###     ### ###    ###  ########  ###       ###       ##########       ###        ########## ###     ### ###    #### ##########     ###           ###       ###     ###  ########  ###    ### 
 
 
-V0.4.3 CHANGELOG
----------------------------------
-For real this time, I fixed the parallax plants. I tested it this time, didn't have the time last time and shot in the dark and missed.
-Scatterer/EVE tweaks
-Misc parallax tweaks
-Optimized Alter Kerbin's biome map by reducing size from 16k to 8k
-Changed KSC ground color to match the beach where its located
-Removed placeholder Alter Kerbin atmosphere, replaced with a proper one
-Fixed scaledversion fades for Alter Kerbin
-Gave the KSC its own biome for Parallax reasons
+V0.5.3 CHANGELOG
+---------------
+Fixed major heating bug where your craft would explode in the atmosphere.
+
 
 Here is some complex backstory lore for ahum 1 and 2
 
