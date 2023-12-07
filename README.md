@@ -1,4 +1,4 @@
-# Ahum-2
+# Eos
 HEADS UP!!!
 YOU NEED THIS MOD
 https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/#comment-4117435
